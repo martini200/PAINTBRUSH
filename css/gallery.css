@@ -1,0 +1,196 @@
+body {
+	background: white;
+	font-family: Arial Black;
+	text-align: center;
+}
+.menu  {
+    overflow: hidden;
+	display: grid;
+	grid-template-columns: 1fr 2fr;
+	border-bottom: .5px #000 solid;
+	background:#008080;
+
+}
+.jack{
+	background:silver;
+}
+.coke{
+	background:silver;
+}
+.jojo{
+	background:silver;
+}
+.menu a {
+    float: left;
+    color:#FFFFFF;
+    text-align: left;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+	margin-left: 50px;
+	margin-right: 50px;
+}
+.img{
+	background:#15998b;
+	color:#FFFFFF;
+	font-family:Arial Black;
+	font-size:40px;
+}
+.menu a:hover {
+    color: silver;
+}
+.haheha {
+	background: url("../images/aa.jpg");
+	background-repeat:no-repeat;
+	background-size: cover;
+	background-position: center;
+	padding: 100px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+.hehahe { 
+	margin-left: 20px
+}	
+.haheha h1{
+	font-size: 55px;
+	font-family:Arial Black;
+}
+.haheha p{
+	font-size: 20px;
+}
+
+.top {
+	font-size: 150px;
+	text-align: left;
+	background: #15998b;
+	color:#FFFFFF;
+	font-family:Arial Black;
+}
+.top p{
+	font-size:30px;
+	font-family:Arial Black;
+}
+
+.hello {
+	display: grid;
+	grid-gap: 10px;
+	grid-template-columns: 1fr 1fr 1fr;
+	color:#FFFFFF;
+	background:#008080;
+}
+.lala {
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+}
+
+.kaka {
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+}
+.jaja {
+	display: grid;
+	grid-template-columns: 1fr 1fr;	
+}
+.fave {
+	font-size: 50px;
+	text-align: left;
+	background: #15998b;
+	color:#FFFFFF;
+	font-family:Arial Black;
+}
+.favo {
+	display: grid;
+	grid-gap: 10px;
+	grid-template-columns: 1fr 1fr 1fr 1fr;
+	background:#15998b;
+	color:#FFFFFF;
+}
+.favo h4{
+	color:#FFFFFF;
+}
+
+
+.aaaa {
+	display: grid;
+	grid-gap: 10px;
+	grid-template-columns: 1fr 1fr;
+
+}
+.eeee {
+	margin-top: 0px;
+	display: grid;
+	grid-gap: 10px;
+	grid-template-columns: 1fr 1fr;
+
+}
+
+.oooo {
+	display: grid;
+	grid-gap: 10px;
+	grid-template-columns: 1fr 1fr;
+	margin-top: 3px;
+}
+.uuuu {
+	display: grid;
+	grid-gap: 10px;
+	grid-template-columns: 1fr 1fr;
+	margin-top: 3px;
+}
+.bloom p{
+	font-size: 50px;
+	text-align:left;
+}
+.run {
+	display: grid;
+	grid-gap: 10px;
+	grid-template-columns: 1fr 1fr 1fr 1fr
+}
+
+.takbo {
+	background: url(../images/er.jpg);
+	background-repeat:no-repeat;
+	background-size: cover;
+	background-position: center;
+	padding: 300px;
+}
+.oo{
+	background:#4C3F09;
+	color:#FFF1B5;
+	font-family:Brush Script MT;
+}
+
+.ffff {
+
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+}
+.cccc {
+
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+}
+
+.paa {
+	border-top: .5px #000 solid;
+	padding: 20px;
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+}
+
+.paa2 {
+	margin-left: 50px;
+	margin-top: 20px;
+}
+.last {
+	background:silver;
+	padding: 5px;
+	color:#FFFFFF;
+}
+.last a{
+	color:white;
+	text-decoration: none;
+}
+.last a:hover {
+	color: gray;
+}

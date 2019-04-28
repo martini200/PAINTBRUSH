@@ -1,0 +1,95 @@
+body {
+	background: white;
+	font-family: Arial Black;
+	text-align: center;
+}
+.menu  {
+    overflow: hidden;
+	display: grid;
+	grid-template-columns: 1fr 2fr;
+	border-bottom: .5px #000 solid;
+	background:#008080;
+}
+.menu a {
+    float: left;
+    color:#FFFFFF;
+    text-align: left;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+	margin-left: 50px;
+	margin-right: 50px;
+}
+.menu a:hover {
+    color: #C0C0C0;
+}
+.map {
+	background: url(../images/9.jpg);
+	background-repeat:no-repeat;
+	background-size: cover;
+	background-position: center;
+	padding: 250px;
+}
+.img{
+	background:#15998b;
+	color:#FFFFFF;
+	font-family:Arial Black;
+	font-size:40px;
+}
+
+}
+.iyooo{
+	font-size:20px;
+	font-family:Arial Black;
+	background:#15998b;
+}
+.iyoo{
+	font-size:55px;
+	font-family:Arial Black;
+	background: #15998b;
+	color:#FFFFFF;
+}
+.sf {
+	background: url(../images/t.png);
+	background-repeat:no-repeat;
+	background-size: cover;
+	background-position: center;
+	padding: 300px;
+}
+button{
+	background:#15998b;
+}
+.eye {
+	background: url(../images/y.jpg);
+	padding: 150px;
+}
+.paa {
+	border-top: .5px #000 solid;
+	padding: 20px;
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+}
+
+
+.paa2 {
+	margin-left: 50px;
+	margin-top: 20px;
+}	
+
+.paa3 {
+	margin-left: 50px;
+	margin-top: 20px
+}
+
+.last {
+	background:#15998b;
+	padding: 5px;
+	color:#FFFFFF;
+}
+.last a{
+	color: black;
+	text-decoration: none;
+}
+.last a:hover {
+	color: silver;
+}
